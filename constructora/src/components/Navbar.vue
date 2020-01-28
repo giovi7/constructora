@@ -1,7 +1,7 @@
 <template>
   <div>
   <b-navbar toggleable="lg" type="dark" variant="info">
-    <b-navbar-brand  href="#">NavBar</b-navbar-brand>
+    <b-navbar-brand class="color" href="#"><img src="@/assets/Constructora/logoss.png" style="max-width:77%"></b-navbar-brand>
 
     <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
 
