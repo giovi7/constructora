@@ -1,24 +1,26 @@
 <template>
   <div id="app">
-     <Navbar/>
+    <Navbar />
     <div id="nav">
-     <router-view></router-view>
+      <router-view></router-view>
     </div>
+    <Footer />
   </div>
 </template>
 <script>
-import Navbar from './components/Navbar'
+import Navbar from "./components/Navbar";
+import Footer from "./components/Footer";
 export default {
-  components:{
-    Navbar
+  components: {
+    Navbar,
+    Footer
   }
-  
-}
+};
 </script>
 
 <style>
 #app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+  font-family: "Avenir", Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
