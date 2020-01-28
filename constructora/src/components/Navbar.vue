@@ -17,7 +17,7 @@
           <b-dropdown-item ><router-link to="/Tfachada">TIPOS DE FACHADA</router-link></b-dropdown-item>
           <b-dropdown-item ><router-link to="/Tpintura">TIPOS DE PINTURA</router-link></b-dropdown-item>
         </b-nav-item-dropdown>
-        <b-nav-item class="color" to="/Contacto">CONTACTO</b-nav-item>
+        <b-nav-item class="color" to="/Contacto">contacto</b-nav-item>
 
       </b-navbar-nav>
 
