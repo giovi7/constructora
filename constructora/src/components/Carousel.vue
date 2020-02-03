@@ -1,5 +1,5 @@
 <template>
-  <div class="mt-0">
+  <div id="c">
     <b-carousel
       id="carousel-1"
       v-model="slide"
@@ -15,25 +15,22 @@
     >
       <!-- Text slides with image -->
       <b-carousel-slide
-        caption="First slide"
-        text="Nulla vitae elit libero, a pharetra augue mollis interdum."
-        :img-src="require('../assets/Constructora/foto26.jpg')"
+        caption="BRAÑEZ"
+        text="Le Damos La Bien Bienvenida."
+        :img-src="require('../assets/Constructora/foto042.gif')"
       ></b-carousel-slide>
 
       <!-- Slides with custom text -->
-      <b-carousel-slide :img-src="require('../assets/Constructora/foto24.jpg')">
-        <h1>Hello world!</h1>
+      <b-carousel-slide :img-src="require('../assets/Constructora/foto041.gif')">
+        <h1></h1>
       </b-carousel-slide>
 
       <!-- Slides with image only -->
-      <b-carousel-slide :img-src="require('../assets/Constructora/foto7.jpg')"></b-carousel-slide>
-    
+      <b-carousel-slide :img-src="require('../assets/Constructora/foto038.gif')"></b-carousel-slide>
+     <b-carousel-slide :img-src="require('../assets/Constructora/foto040.gif')"></b-carousel-slide>
     </b-carousel>
-
-    <p class="mt-4">
-      Slide #: {{ slide }}<br>
-      Sliding: {{ sliding }}
-    </p>
+    <h1>hola</h1>
+    
   </div>
 </template>
 
@@ -55,3 +52,6 @@
     }
   }
 </script>
+<style scoped>
+
+</style>

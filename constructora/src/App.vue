@@ -1,9 +1,7 @@
 <template>
-  <div id="app">
+  <div id="app" class="mt-0">
     <Navbar />
-    <div id="nav">
       <router-view></router-view>
-    </div>
     <Footer />
   </div>
 </template>
@@ -28,7 +26,7 @@ export default {
 }
 
 #nav {
-  padding: 30px;
+  padding: 0px;
 }
 
 #nav a {
