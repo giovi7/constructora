@@ -1,64 +1,97 @@
 <template>
-  <div>
-    <ul>
-      <h3>TIPOS DE SERVICIO</h3>
-      <br />
-    </ul>
-    <div>
-  <div class="mt-4">
-    <b-card-group deck>
-      <b-card  :img-src="require('../assets/Constructora/foto4.jpg')" img-alt="Card image" img-top>
-        <b-card-text>
-          <h5>OBRA GRUESA.</h5> 
-        </b-card-text>
-      </b-card>
-
-      <b-card :img-src="require('../assets/Constructora/foto46.jpg')" img-alt="Card image" img-bottom>
-        <b-card-text>
-          <h5>OBRA FINA.</h5>
-        </b-card-text>
-      </b-card>
-    </b-card-group>
+<div>
+  <h2  class="mouse">TIPOS DE SERVICIOS</h2><br><br>
+ <b-container class="bv-example-row">
+  <div class="card-deck">
+  <div class="card"> 
+    <div class="card-body">
+      <h5 class="mouse">OBRA GRUESA</h5>
+      <p class="card-text"></p>
+      <p class="card-text"><small class="text-muted"></small></p>
+    </div>
+    <img src="@/assets/Constructora/foto03.gif" class="card-img-top" alt="...">
   </div>
-  <div class="mt-4">
-    <h4></h4>
-    <b-card :img-src="require('../assets/Constructora/casa.jpg')" img-alt="Card image" img-left class="mb-3">
-      <b-card-text>
-        <h5>LLAVE A LA MANO</h5>
-      </b-card-text>
-    </b-card>
-
-    <b-card :img-src="require('../assets/Constructora/casas.jpg')" img-alt="Card image" img-right>
-      <b-card-text>
-       <h5>REMODELACION</h5>
-      </b-card-text>
-    </b-card>
-  </div>
-  <div>
-    <h4></h4>
-    <b-card-group deck>
-      <b-card img-src="https://placekitten.com/1000/300" img-alt="Card image" img-top>
-        <b-card-text>
-          <h5>GAFITER.</h5> 
-        </b-card-text>
-      </b-card>
-
-      <b-card img-src="https://placekitten.com/1000/300" img-alt="Card image" img-bottom>
-        <b-card-text>
-          <h5>ELECTRICIDAD.</h5>
-        </b-card-text>
-      </b-card>
-    </b-card-group>
-  </div>
-  
+  <div class="card">
+    <div class="card-body">
+      <h5 class="mouse">OBRA FINA</h5>
+      <p class="card-text"></p>
+      <p class="card-text"><small class="text-muted"></small></p>
+    </div>
+     <img src="@/assets/Constructora/foto06.gif" class="card-img-top" alt="...">
+     </div>
 </div>
+<br>
+ <div class="card-deck">
+  <div class="card"> 
+    <div class="card-body">
+      <h5 class="mouse">LLAVE A LA MANO</h5>
+      <p class="card-text"></p>
+      <p class="card-text"><small class="text-muted"></small></p>
+    </div>
+    <img src="@/assets/Constructora/foto04.gif" class="card-img-top" alt="...">
   </div>
-  
+  <div class="card">
+    <div class="card-body">
+      <h5 class="mouse">FACHADA</h5>
+      <p class="card-text"></p>
+      <p class="card-text"><small class="text-muted"></small></p>
+    </div>
+     <img src="@/assets/Constructora/foto02.gif" class="card-img-top" alt="...">
+     </div>
+</div>
+<br>
+ <div class="card-deck">
+  <div class="card"> 
+    <div class="card-body">
+      <h5 class="mouse">CONSTRUCCION PARA EL ASADO</h5>
+      <p class="card-text"></p>
+      <p class="card-text"><small class="text-muted"></small></p>
+    </div>
+    <img src="@/assets/Constructora/foto022.gif" class="card-img-top" alt="...">
+  </div>
+  <div class="card">
+    <div class="card-body">
+      <h5 class="mouse">LEVANTAMIENTO DE MUROS</h5>
+      <p class="card-text"></p>
+      <p class="card-text"><small class="text-muted"></small></p>
+    </div>
+     <img src="@/assets/Constructora/foto023.gif" class="card-img-top" alt="...">
+     </div>
+</div>
+<br>
+ <div class="card-deck">
+  <div class="card"> 
+    <div class="card-body">
+      <h5 class="mouse">SOLDADURA</h5>
+      <p class="card-text"></p>
+      <p class="card-text"><small class="text-muted"></small></p>
+    </div>
+    <img src="@/assets/Constructora/foto035.gif" class="card-img-top" alt="...">
+  </div>
+  <div class="card">
+    <div class="card-body">
+      <h5 class="mouse">COLOCACION DE AZULEJOS</h5>
+      <p class="card-text"></p>
+      <p class="card-text"><small class="text-muted"></small></p>
+    </div>
+     <img src="@/assets/Constructora/foto036.gif" class="card-img-top" alt="...">
+     </div>
+</div>
+</b-container>
+</div> 
 </template>
 
 <script>
-export default {};
+export default {
+
+}
 </script>
 
-<style>
+<style scoped>
+.mouse:hover{
+  color:rgba(121, 77, 6, 0.705);
+ transform: translateY(15px);
+  }
+
+
 </style>
