@@ -61,4 +61,13 @@ export default {};
 </script>
 
 <style>
+@import url("https://fonts.googleapis.com/css?family=Varela+Round");
+
+#app {
+  font-family: "Varela Round", Helvetica, Arial, sans-serif;
+  
+  
+  color: #2c3e50;
+
+}
 </style>
