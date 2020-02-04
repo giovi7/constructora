@@ -1,35 +1,59 @@
 <template>
-    <div class="card text-center">
-  <div class="card-header">
-    
-  </div>
-  <div class="container">
-  <div class="row">
-    <div class="col-sm">
-       <div class="card-body">
-    <h5 class="card-title">Special title treatment</h5>
-    <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+  <footer class="card text-center">
+    <b-container class="bv-example-row">
+      <b-row>
+       
+         <b-col>
+          <div class="col-sm">
+            <div class="card-body">
+              <h5>
+                <strong class="text-warning">Nuestro Objetivo</strong>
+                
+              </h5>
+              ------------------------------------------------------------------------------------------
+            </div>
+          </div>
 
-  </div>
-    </div>
-    <div class="col-sm">
-       <div class="card-body">
-    <h5 class="card-title">Special title treatment</h5>
-    <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+        </b-col>
+         <b-col>
+          <div class="col-sm">
+            <div class="card-body">
+              
+                <strong class="text-warning">Nuestro Objetivo</strong>
+                <p
+                  class="text-white"
+                >La plena satisfacción de nuestros clientes al adquirir exclusividad y calidad con nuestros departamentos.</p>
+              
+              
+            </div>
+          </div>
+        </b-col>
+         <b-col>
+          <div class="col-sm">
+            <div class="card-body">
+              <h5>
+                <strong class="text-warning">Nuestro Objetivo</strong>
+             
+              </h5>
+              ------------------------------------------------------------------------------------
+            </div>
+          </div>
+        </b-col>
 
-  </div>
-    </div>
-    <div class="col-sm">
-       <div class="card-body">
-    <h5 class="card-title">Special title treatment</h5>
-    <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-
-  </div>
-    </div>
-  </div>
-</div>
-  <div class="bg-danger">
-    akssjfhalskffhvs;orfhuwrovh
-  </div>
-</div>
+      </b-row>
+    </b-container>
+    <div class="row"></div>
+  </footer>
 </template>
+<style>
+footer {
+  position: relative;
+
+  background: linear-gradient(to bottom, rgb(2, 39, 58), rgb(0, 7, 8));
+
+  text-align: center;
+  color: #fff;
+}
+
+</style>
+
