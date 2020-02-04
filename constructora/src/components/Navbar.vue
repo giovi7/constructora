@@ -15,7 +15,7 @@
           <b-dropdown-item ><router-link to="Cadobe" > CASAS DE ADOBE</router-link></b-dropdown-item>
           <b-dropdown-item ><router-link to="Cbloque">CASAS DE BLOQUE</router-link></b-dropdown-item>
           <b-dropdown-item ><router-link to="/Tfachada">TIPOS DE FACHADA</router-link></b-dropdown-item>
-          <b-dropdown-item ><router-link to="/Tpintura">TIPOS DE PINTURA</router-link></b-dropdown-item>
+          <b-dropdown-item ><router-link to="/Tpintura">OTROS</router-link></b-dropdown-item>
         </b-nav-item-dropdown>
         <b-nav-item class="color" to="/Contacto">CONTACTO</b-nav-item>
 
@@ -33,9 +33,6 @@ export default {
 </script>
 
 <style>
-.color{
-  color:rgb(241, 241, 248);
-  margin-left: 40px   
-}
+
 
 </style>
