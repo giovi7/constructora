@@ -1,8 +1,12 @@
 <template>
-  <div class="card mb-4" style="max-width: 540px;">
+<b-container class="bv-example-row">
+  <b-row>
+    <b-col>
+      <!-- 1 of 3 -->
+      <div class="card mb-4" >
   <div class="row no-gutters">
     <div class="col-md-4">
-      <img src="@/assets/Constructora/foto037.gif" class="card-img" alt="...">
+      <img src="@/assets/Constructora/foto055.gif" class="card-img" alt="...">
     </div>
     <div class="col-md-8">
       <div class="card-body">
@@ -13,6 +17,11 @@
     </div>
   </div>
 </div>
+    </b-col>
+   
+  </b-row>
+</b-container>
+  
 </template>
 
 <script>

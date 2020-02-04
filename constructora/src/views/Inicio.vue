@@ -1,5 +1,5 @@
 <template>
-  <div class="p-0" >
+  <div class="" >
     <Carousel/>
     <Pcarusel/>
   </div>
