@@ -29,7 +29,8 @@
       <b-carousel-slide :img-src="require('../assets/Constructora/foto038.gif')"></b-carousel-slide>
      <b-carousel-slide :img-src="require('../assets/Constructora/foto040.gif')"></b-carousel-slide>
     </b-carousel>
-    <h1>hola</h1>
+    <br>
+    <br>
     
   </div>
 </template>
@@ -53,5 +54,7 @@
   }
 </script>
 <style scoped>
-
+b-carousel-slide{
+  background-color: black;
+}
 </style>
