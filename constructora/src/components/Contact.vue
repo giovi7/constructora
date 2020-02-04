@@ -1,11 +1,11 @@
 <template>
   <div
-    style="background-image: url('https://cdn.pixabay.com/photo/2017/04/22/23/47/night-2252680_960_720.jpg') "
+    style="background-image: url('') "
   >
     <b-row>
       <b-col>
         <br />
-        <h2 class="text-white">
+        <h2 class="text-dark">
           <strong>Contacto</strong> 
         </h2>
         <br>
@@ -63,7 +63,7 @@
       </div>
 
       <b-col>
-        <p class="text-white">whatsappea con nosotros</p>
+        <p class="text-dark">whatsappea con nosotros</p>
       </b-col>
         <img
           class="alignnone size-full wp-image-351"
@@ -74,18 +74,23 @@
         <br />
 
         <a
-          class="text-white"
+          class="text-dark"
           href="mailto:giovi7azul@gmail.com?Subject=Interesado%20en%20el%20curso"
         >Contactar por correo</a>
         <br>
         <b-col>
           <b-col>
-            <p class="text-white">
-              Constructora e Inmobiliaria Carpio S.A.C.
-              Alfredo Benavides 2197 – Miraflores – Lima
-              Tel.: (511) 445 2246 – Celular: 996 188273 – Rpm: *390149
-              info@constructoracarpio.com
-              www.constructoracarpio.com
+            <p class="text-dark">
+
+              Constructora  Brañez
+              <br>
+              <img src="" alt="" srcset="">
+              
+              Josefino Brañez – San Pedro de Atacama - Calama
+              <br>
+            Celular: +56 9 9891 9642
+            <br>
+              
             </p>
           </b-col>
         </b-col>
@@ -93,15 +98,16 @@
 
    
     </b-row>
-    <iframe
+    <b-col>
+      <iframe
       src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d470397.7683350531!2d-68.47881615491423!3d-22.91401391012919!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x96a84c7aa92abf3f%3A0x7af4614cacf997d1!2sSan+Pedro+de+Atacama%2C+Antofagasta+Region!5e0!3m2!1sen!2scl!4v1473271159931"
-      width="1200"
-      height="450"
+    
       frameborder="0"
       style="border: 0px; pointer-events: auto;"
       allowfullscreen
     ></iframe>
-      
+      </b-col>
+    
   </div>
 </template>
 
@@ -118,6 +124,14 @@ export default {};
   font-family: "Varela Round", Helvetica, Arial, sans-serif;
 
   color: #2c3e50;
+}
+
+.google-maps iframe {
+position: absolute;
+top: 0;
+left: 0;
+width: 100% !important;
+height: 100% !important;
 }
 </style>
 
