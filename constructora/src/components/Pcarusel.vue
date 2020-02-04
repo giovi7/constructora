@@ -1,15 +1,16 @@
 <template>
-<b-container class="bv-example-row">
-  <b-row>
-    <b-col>
+<div class="fondo">
+<b-container class="bv-example-row fondo">
+  <b-row >
+    <b-col >
       <!-- 1 of 3 -->
-      <div class="card mb-4" >
-  <div class="row no-gutters">
-    <div class="col-md-4">
+      <div class="card mb-4 fondo " >
+  <div class="row no-gutters ">
+    <div class="col-md-4 ">
       <img src="@/assets/Constructora/foto055.gif" class="card-img" alt="...">
     </div>
-    <div class="col-md-8">
-      <div class="card-body">
+    <div class="col-md-8 ">
+      <div class="card-body ">
         <h5 class="card-title">Card title</h5>
         <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
         <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
@@ -21,6 +22,7 @@
    
   </b-row>
 </b-container>
+</div>
   
 </template>
 
@@ -31,5 +33,12 @@ export default {
 </script>
 
 <style>
+.fondo{
+  background: linear-gradient(217deg, rgb(245, 246, 243), rgba(246, 242, 241, 0.452) 70.71%),
+            linear-gradient(127deg, rgb(227, 229, 231), rgba(211, 221, 221, 0.897) 70.71%),
+            linear-gradient(336deg, rgb(247, 250, 250), rgba(194, 240, 216, 0.52) 70.71%);
+            
+ /* background: linear-gradient(to bottom, rgb(255, 254, 254), rgb(131, 130, 130)); */
+}
 
 </style>
