@@ -4,7 +4,7 @@
  <b-container class="bv-example-row">
   <div class="card-deck">
   <div class="card"> 
-   <h5 class="card-title">Card title</h5>
+  
     <img src="@/assets/Constructora/foto031.gif" class="card-img-top" alt="..."  >
   </div>
   <div class="card">
