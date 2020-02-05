@@ -12,17 +12,17 @@
       <b-container>
         <div class="card bg-dark text-white">
     
-           <img src="@/assets/Constructora/foto033.gif" class="card-img" alt="..." width="" />
-          <div class="card-img-overlay">
-            <h3 class="card-title"><strong>Constructora</strong></h3>
+           <img src="@/assets/Constructora/foto055.gif" class="card-img" alt="..." width="" />
+          <div class="card-img-overlay"> <br>
+            <h3 class="card-title"><strong class="text-dark">Constructora</strong></h3>
             <p
-              class="card-text"
+              class="text-dark"
             > 
+            <br> <strong>
           La constructora se encuentra ubicada en San Pedro de Atacama CHILE está muy ligada a la arquitectura que el cliente pida. Sus antiguas casas de adobe, bloques, madera, son símbolo de la localidad en la zona en que se encuentran ya que la zona es un lugar turístico.
           En cuanto a construcciones nuevas, existe una norma para regular que restringe la altura y colores de las viviendas y propone fachadas continuas en centros patrimoniales, entre otros puntos de la zona.
           La constructora se dedica a la construcción de casas, cabañas y hostales y también realiza trabajos en: llave a la mano(es cuando la constructora se encarga de la obra gruesa, obra fina y el acabado final), gafiter(plomeria), electricidad, remodelacion, obra gruesa, obra fina.
-          Los contratos y obras que fueron realizados y las nuevas construcciones que agarra la constructora Brañez hace referencia para realizar nuevas obras, los clientes al quedar conformes con los trabajos tienden a sugerir el contacto para ser contactados.
-      </p>
+          
        <div class="card-deck">
           <div class="card">
             <img src="@/assets/Constructora/foto033.gif" class="card-img-top" alt="..." width="100" />
