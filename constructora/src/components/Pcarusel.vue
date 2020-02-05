@@ -7,13 +7,18 @@
       <div class="card mb-4 fondo " >
   <div class="row no-gutters ">
     <div class="col-md-4 ">
-      <img src="@/assets/Constructora/foto055.gif" class="card-img" alt="...">
+      <img src="@/assets/Constructora/foto056.gif" class="card-img" alt="...">
     </div>
     <div class="col-md-8 ">
       <div class="card-body ">
-        <h5 class="card-title">Card title</h5>
-        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-        <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+        <h5 class="card-title">BIENVENIDO</h5><br>
+        <p class="card-text">Constructora BRAÑEZ esta conformado por un grupo responsable en su area <br>
+           para el proceso de construccion,
+           respondiendo de manera profesional, trabajando en equipo <br>
+          con nuestros clientes
+          para resolver y crear proyectos que superen sus espectativas
+        </p>
+        <p class="card-text"><small class="text-muted"></small></p>
       </div>
     </div>
   </div>

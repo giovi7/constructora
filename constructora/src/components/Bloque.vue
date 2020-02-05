@@ -3,38 +3,22 @@
  <b-container class="bv-example-row">
   <div class="card-deck">
   <div class="card"> 
-    <div class="card-body">
-      <h5 class=""></h5>
-      <p class="card-text"></p>
-      <p class="card-text"><small class="text-muted"></small></p>
-    </div>
+   
     <img src="@/assets/Constructora/foto024.gif" class="card-img-top" alt="...">
   </div>
   <div class="card">
-    <div class="card-body">
-      <h5 class="mouse"></h5>
-      <p class="card-text"></p>
-      <p class="card-text"><small class="text-muted"></small></p>
-    </div>
+   
      <img src="@/assets/Constructora/foto025.gif" class="card-img-top" alt="...">
      </div>
 </div>
 <br>
  <div class="card-deck">
   <div class="card"> 
-    <div class="card-body">
-      <h5 class=""></h5>
-      <p class="card-text"></p>
-      <p class="card-text"><small class="text-muted"></small></p>
-    </div>
+   
     <img src="@/assets/Constructora/foto03.gif" class="card-img-top" alt="...">
   </div>
   <div class="card">
-    <div class="card-body">
-      <h5 class=""></h5>
-      <p class="card-text"></p>
-      <p class="card-text"><small class="text-muted"></small></p>
-    </div>
+    
      <img src="@/assets/Constructora/foto022.gif" class="card-img-top" alt="...">
      </div>
 </div>
