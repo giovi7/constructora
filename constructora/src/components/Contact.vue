@@ -68,7 +68,7 @@
         <img
           class="alignnone size-full wp-image-351"
           src="https://lh5.googleusercontent.com/proxy/yqH7YvOrZJra9iv5nDpxdg66xnhz-mJqVjTByjQNUDIyjg4FcGOQ2vLypXWzJdFNefDvgq1OW_nSoIgQj7XOh8Q5emKFx4j8BkfbY7mqWs_A"
-          width="60"
+          width="35"
           height
         />
         <br />
@@ -79,10 +79,11 @@
         >Contactar por correo</a>
         <br>
         <b-col>
+          <br>
           <b-col>
             <p class="text-dark">
 
-              Constructora  Brañez
+             <strong>Constructora  Brañez</strong> 
               <br>
               <img src="" alt="" srcset="">
               
@@ -97,18 +98,21 @@
       </b-col>
 
    <b-col>
-      <iframe
+     <br><br>
+      <iframe class="card"
       src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d470397.7683350531!2d-68.47881615491423!3d-22.91401391012919!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x96a84c7aa92abf3f%3A0x7af4614cacf997d1!2sSan+Pedro+de+Atacama%2C+Antofagasta+Region!5e0!3m2!1sen!2scl!4v1473271159931"
-    
+    height="300"
       frameborder="0"
-      style="border: 0px; pointer-events: auto;"
+      style="border: 10px; pointer-events: auto;"
       allowfullscreen
     ></iframe>
       </b-col>
+      
     
     </b-row>
     
   </div>
+  
 </template>
 
  
