@@ -17,7 +17,7 @@
       <p class="card-text"></p>
       <p class="card-text"><small class="text-muted"></small></p>
     </div>
-     <img src="@/assets/Constructora/foto06.gif" class="card-img-top" alt="...">
+     <img src="@/assets/Constructora/foto037.gif" class="card-img-top" alt="...">
      </div>
 </div>
 <br>
