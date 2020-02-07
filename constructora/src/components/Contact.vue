@@ -73,7 +73,7 @@
 
         <a
           class="text-dark"
-          href="mailto:josefinobranez@gmail.com?Subject=Interesado%20en%20el%20curso"
+          href="mailto:josefinobranez@gmail.com?Subject=Interesado%20en%20el%20trabajo"
         >Contactar por correo</a>
         <br />
         <b-col>

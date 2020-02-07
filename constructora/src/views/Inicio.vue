@@ -32,7 +32,7 @@
   <img src="@/assets/Constructora/foto021.gif" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">REMODELACION</h5>
-    <p class="card-text">Realizamos remodelacion, renovacion y restauracion. Entregamos un servicio de calidad.</p>
+    <p class="card-text">Realizamos remodelación, renovación y restauración. Entregamos un servicio de calidad.</p>
 
   </div>
 </div>
