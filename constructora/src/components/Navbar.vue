@@ -3,7 +3,7 @@
   <b-navbar toggleable="lg" type="info" variant=""><br>
     <b-navbar-brand class="color ml-5  mr-10" href="#" ><img src="@/assets/Constructora/logoss.png" style="max-width:77%"></b-navbar-brand>
 
-    <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
+    <b-navbar-toggle class="bg-info" target="nav-collapse"></b-navbar-toggle>
 
     <b-collapse id="nav-collapse" is-nav>
       <b-navbar-nav class="ml-5">
