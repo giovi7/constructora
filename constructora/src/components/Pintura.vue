@@ -45,7 +45,19 @@
      <img src="@/assets/Constructora/foto036.gif" class="card-img-top" alt="...">
      </div>
 </div>
-</b-container>
+<br>
+ <div class="card-deck">
+  <div class="card"> 
+   
+    <img src="@/assets/Constructora/foto043.gif" class="card-img-top" alt="...">
+  </div>
+  <div class="card">
+    
+     <img src="@/assets/Constructora/foto030.gif" class="card-img-top" height="403" alt="...">
+     </div>
+</div>
+
+</b-container><br>
 </div> 
 </template>
 

@@ -14,7 +14,7 @@
         <h5 class="card-title">BIENVENIDO</h5><br>
         <p class="card-text">Constructora BRAÑEZ esta conformado por un grupo responsable en su area <br>
            para el proceso de construccion,
-           respondiendo de manera profesional, trabajando en equipo <br>
+           respondiendo de manera profesional, trabajando en equipo 
           con nuestros clientes
           para resolver y crear proyectos que superen sus espectativas
         </p>
@@ -26,8 +26,11 @@
     </b-col>
    
   </b-row>
+
+  
 </b-container>
 </div>
+
   
 </template>
 
