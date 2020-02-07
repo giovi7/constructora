@@ -15,8 +15,8 @@
     >
       <!-- Text slides with image -->
       <b-carousel-slide
-        caption="BRAÑEZ"
-        text="Le Damos La Bienvenida."
+        caption= "BRAÑEZ"
+        text= "Le Damos La Bienvenida."
         :img-src="require('../assets/Constructora/foto042.gif')"
       ></b-carousel-slide>
 

@@ -36,7 +36,7 @@
       <p class="card-text"></p>
       <p class="card-text"><small class="text-muted"></small></p>
     </div>
-     <img src="@/assets/Constructora/foto02.gif" class="card-img-top" alt="...">
+     <img src="@/assets/Constructora/foto05.gif" class="card-img-top" alt="...">
      </div>
 </div>
 <br>
@@ -89,7 +89,7 @@ export default {
 
 <style scoped>
 .mouse:hover{
-  color:rgba(44, 43, 41, 0.705);
+  color:cornflowerblue;
  transform: translateY(15px);
   }
 .fondo{
