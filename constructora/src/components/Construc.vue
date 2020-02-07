@@ -21,7 +21,7 @@
             <br> <strong>
           La constructora se encuentra ubicada en San Pedro de Atacama CHILE está muy ligada a la arquitectura que el cliente pida. Sus antiguas casas de adobe, bloques, madera, son símbolo de la localidad en la zona en que se encuentran ya que la zona es un lugar turístico.
           En cuanto a construcciones nuevas, existe una norma para regular que restringe la altura y colores de las viviendas y propone fachadas continuas en centros patrimoniales, entre otros puntos de la zona.
-          La constructora se dedica a la construcción de casas, cabañas y hostales y también realiza trabajos en: llave a la mano (es cuando la constructora se encarga de la obra gruesa, obra fina y el acabado final), gafiter (plomeria), electricidad, remodelacion, obra gruesa, obra fina.
+          La constructora se dedica a la construcción de casas, cabañas y hostales y también realiza trabajos en: llave a la mano (es cuando la constructora se encarga de la obra gruesa, obra fina y el acabado final), gafiter (plomeria), electricidad, remodelación, obra gruesa, obra fina.
           </strong> <br> <br> <br>
        <div class="card-deck"> <br>
           <div class="card">

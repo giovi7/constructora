@@ -20,7 +20,7 @@
               <br />
               <p
                 class="text-dark"
-              >satisfacción con nuestros clientes al adquirir exclusividad y calidad con nuestros trabajos realizados.</p>
+              >Satisfacción con nuestros clientes al adquirir exclusividad y calidad con nuestros trabajos realizados.</p>
             </div>
           </div>
         </b-col>
