@@ -18,7 +18,7 @@
     </div>
     <div class="col">
       <div class="card" style="width: 18rem;">
-  <img src="@/assets/Constructora/foto018.gif" class="card-img-top" alt="...">
+  <img src="@/assets/Constructora/foto06.gif" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">GAFITER</h5>
     <p class="card-text"> Se brinda todo tipo de instalaciones, adaptada a sus nesecidades.Contactenos entregamos un servicio de calidad para usted.
