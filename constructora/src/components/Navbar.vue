@@ -1,7 +1,7 @@
 <template>
   <div>
-  <b-navbar toggleable="lg" type="light" variant="faded"><br>
-    <b-navbar-brand class="color ml-5  mr-10" href="#" ><img src="@/assets/logo02.jpg" style="max-width:120%"></b-navbar-brand>
+  <b-navbar toggleable="lg" type="info" variant=""><br>
+    <b-navbar-brand class="color ml-5  mr-10" href="#" ><img src="@/assets/Constructora/logoss.png" style="max-width:77%"></b-navbar-brand>
 
     <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
 

@@ -2,35 +2,43 @@
   <div class="fondo" >
     <Carousel/>
     <Pcarusel/>
-    <div class="container">
-     <div class="row">
+
+    <!-- iii -->
+    <div class="container mb-4">
+  <div class="row">
+    <div class="col">
       <div class="card" style="width: 18rem;">
-  <img src="@/assets/Constructora/foto018.gif" class="card-img-top " alt="...">
+  <img src="@/assets/Constructora/foto04.gif" class="card-img-top"  alt="...">
   <div class="card-body">
     <h5 class="card-title">ELECTRICIDAD</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-  </div>
-</div>
-  <div class="card" style="width: 18rem;">
-  <img src="@/assets/Constructora/foto018.gif" class="card-img-top col-sm" alt="...">
-  <div class="card-body">
-    <h5 class="card-title">GAFITER</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-  </div>
-</div>
-  <div class="card" style="width: 18rem;">
-  <img src="@/assets/Constructora/foto018.gif" class="card-img-top col-sm" alt="...">
-  <div class="card-body">
-    <h5 class="card-title">ELECTRICIDAD</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-  </div>
-</div>
+    <p class="card-text">Se ofrece todo tipo de instalaciones electricas, adaptada a sus nesecidades </p>
   
   </div>
+</div>
+    </div>
+    <div class="col">
+      <div class="card" style="width: 18rem;">
+  <img src="@/assets/Constructora/foto018.gif" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">GAFITER</h5>
+    <p class="card-text"> Se brinda todo tipo de instalaciones, adaptada a sus nesecidades.Contactenos entregamos un servicio de calidad para usted.
+</p>
+ 
+  </div>
+</div>
+    </div>
+    <div class="col">
+      <div class="card" style="width: 18rem;">
+  <img src="@/assets/Constructora/foto021.gif" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">REMODELACION</h5>
+    <p class="card-text">Realizamos remodelacion, renovacion y restauracion. Entregamos un servicio de calidad.</p>
 
-
-
-  </div> 
+  </div>
+</div>
+    </div>
+  </div><br><br>
+</div>
   </div>
 </template>
 
