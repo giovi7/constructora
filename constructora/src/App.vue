@@ -1,7 +1,9 @@
 <template>
-  <div id="app" class="mt-0">
-    <Navbar />
+  <div>
+    <div id="app" class="mt-0">
+      <Navbar />
       <router-view></router-view>
+    </div>
     <Footer />
   </div>
 </template>
@@ -23,5 +25,4 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
 }
-
 </style>
