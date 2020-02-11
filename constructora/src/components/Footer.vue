@@ -8,7 +8,7 @@
               <br />
               <br />
 
-              <img src="@/assets/Constructora/logoss.png" width="170" />
+              <img src="@/assets/Constructora/logoss.png"  width="170" />
             </div>
           </div>
         </b-col>
